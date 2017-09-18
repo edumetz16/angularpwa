@@ -1,0 +1,4 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+body{margin:0;padding: 0}
+.menu-button{color:#fff;cursor:pointer}
+.menu-button .mat-icon{font-size: 32px;}
